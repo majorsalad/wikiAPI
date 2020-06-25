@@ -1,5 +1,5 @@
 # WikiAPI [Using NodeJS and MongoDB]
-WikiAPI is my first RESTful API for encyclopedia articles.
+WikiAPI is my first RESTful API for encyclopedia articles. A challenge to us students from my instructor Angela Yu.
 
 # How it works
 - Must have the required node packages installed
